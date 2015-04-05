@@ -11,6 +11,7 @@ namespace ConsoleApplicationGitVS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello TFS and Git");
+            Console.WriteLine("Second commit");
         }
     }
 }
